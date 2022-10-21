@@ -33,3 +33,7 @@ WHERE
 ORDER BY
   date DESC,
   stn ASC 
+  
+  
+  The link to the SQL workspace is shown below
+  https://console.cloud.google.com/bigquery?sq=716556437289:fdfeaaf212d04464a741573df9c3e145
